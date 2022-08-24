@@ -1,2 +1,2 @@
 # CSCE247
-setup process
+setup process :)
